@@ -1,7 +1,6 @@
 # 🛡️ FaceShield — Real-Time Face Detection & Blurring (OpenCV DNN)
 
 A Python project for **real-time facial detection and anonymization** using **OpenCV’s Deep Neural Network (DNN)** module.  
-This version works on all modern Python versions (including 3.13) without requiring MediaPipe.
 
 ---
 
@@ -20,8 +19,6 @@ It demonstrates how computer vision can be applied for **privacy-preserving AI**
 ✅ Real-time face detection using OpenCV DNN (ResNet-based SSD)  
 ✅ Automatic Gaussian blur over detected faces  
 ✅ Runs on any modern Python version (3.8–3.13+)  
-✅ Offline-ready — works after one-time model download  
-✅ Works on Windows / macOS / Linux  
 
 ---
 
@@ -33,7 +30,7 @@ It demonstrates how computer vision can be applied for **privacy-preserving AI**
 | **Libraries** | `opencv-python`, `numpy` |
 | **Model** | `res10_300x300_ssd_iter_140000.caffemodel` |
 | **Framework** | OpenCV DNN module |
-| **IDE Tested** | VS Code, PyCharm |
+| **IDE Tested** | VS Code |
 
 ---
 
